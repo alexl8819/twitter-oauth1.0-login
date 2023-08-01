@@ -4,9 +4,9 @@
   "description": "Simple implementation of Sign on with Twitter",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "lint": "standard"
   },
-  "author": "idealwebsolutions",
+  "author": "alexl8819",
   "license": "MIT",
   "dependencies": {
     "oauth-1.0a": "^2.1.1",

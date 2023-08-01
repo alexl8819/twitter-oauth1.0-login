@@ -5,7 +5,7 @@ Simple implementation of Sign on with Twitter
 This implementation sets out to be different by not tying itself to any framework. It makes no assumption of your application architecture and does not include more than basic functionality to get your users logged in. Similar to other implementations, it also queries the user's profile information as a form of credential verification.
 
 # Install
-    $ git clone https://github.com/idealwebsolutions/twitter-oauth1.0-login.git
+    $ git clone https://github.com/alexl8819/twitter-oauth1.0-login.git
     $ cd twitter-oauth1.0-login && npm install
 
 # API
