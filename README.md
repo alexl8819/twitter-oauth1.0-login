@@ -1,6 +1,9 @@
 # twitter-oauth1.0-login
 Simple implementation of Sign on with Twitter
 
+# Status
+Deprecated as of Jan 1st 2019
+
 # Why
 This implementation sets out to be different by not tying itself to any framework. It makes no assumption of your application architecture and does not include more than basic functionality to get your users logged in. Similar to other implementations, it also queries the user's profile information as a form of credential verification.
 
